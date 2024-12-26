@@ -8,10 +8,10 @@
 
 📌 Skills I'm Building:
 
-HTML, CSS, Bootstrap, JavaScript
-Intermediate SQL, Git, and GitHub
-Intermediate skills in Blender, Photoshop, Illustrator, video editing, and photo editing
-AI prompting
+HTML, CSS, Bootstrap, JavaScript, Git, and GitHub,AI prompting
+
+Intermediate skills in SQL,MySQL ,Blender, Photoshop, Illustrator, video editing, and photo editing
+
 Planning to learn Data Analytics within the next few months.
 🌱 Currently working on personal and college projects to sharpen my problem-solving and coding expertise.
 
