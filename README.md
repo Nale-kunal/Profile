@@ -12,7 +12,7 @@ HTML, CSS, Bootstrap, JavaScript, Git, and GitHub,AI prompting
 
 Intermediate skills in SQL,MySQL ,Blender, Photoshop, Illustrator, video editing, and photo editing
 
-Planning to learn Data Analytics within the next few months.
+Planning to learn Data Science within the next few months.
 🌱 Currently working on personal and college projects to sharpen my problem-solving and coding expertise.
 
 🚀 Ready to bring my enthusiasm and determination to a professional environment where I can grow and make meaningful contributions.
