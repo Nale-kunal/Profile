@@ -8,9 +8,11 @@
 
 📌 Skills I'm Building:
 
-HTML, CSS, Bootstrap, JavaScript, Git, and GitHub,AI prompting
+JavaScript, Node.js, Express.js, jQuery, HTML5, CSS3, SQL, PostgreSQL, Bootstrap, Figma, Git, UI/UX Design, Responsive Design, Database,AI prompting
 
-Intermediate skills in SQL,MySQL ,Blender, Photoshop, Illustrator, video editing, and photo editing
+VS Code, Git, GitHub, Postman, Figma, MySQL Workbench, PostgreSQL
+
+SQL,MySQL ,Blender, Photoshop, Illustrator, video editing, and photo editing
 
 Planning to learn Data Science within the next few months.
 🌱 Currently working on personal and college projects to sharpen my problem-solving and coding expertise.
