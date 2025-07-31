@@ -38,12 +38,3 @@ SQL Intermediate – SoloLearn (Sep 2024)
 IIT Madras Global Hyperloop Challenge – Qualified for 2nd Round (Team Tech Titans)
 
 Naukri Campus AINCAT Participation – May 2025
-
-📄 Resume
-📌 View My Resume
-
-📬 Let's Connect
-📍 Pune, Maharashtra
-📧 nale.kunal343@gmail.com
-🔗 LinkedIn
-💻 GitHub
