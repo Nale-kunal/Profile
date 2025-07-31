@@ -32,7 +32,7 @@ Goldman Sachs: Operations Job Simulation (Jul 2025)
 Deloitte: Technology Job Simulation (Jul 2025)
 
 📊 Technical & Programming
-SQL Intermediate – SoloLearn (Sep 2024) https://github.com/user-attachments/files/21534945/Kunal.s.SQL.intermidate.Certificate.Sololearn.pdf
+SQL Intermediate – SoloLearn (Sep 2024)
 
 
 🏁 Competitions & Events
