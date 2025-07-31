@@ -32,7 +32,8 @@ Goldman Sachs: Operations Job Simulation (Jul 2025)
 Deloitte: Technology Job Simulation (Jul 2025)
 
 📊 Technical & Programming
-SQL Intermediate – SoloLearn (Sep 2024)
+SQL Intermediate – SoloLearn (Sep 2024) https://github.com/user-attachments/files/21534945/Kunal.s.SQL.intermidate.Certificate.Sololearn.pdf
+
 
 🏁 Competitions & Events
 IIT Madras Global Hyperloop Challenge – Qualified for 2nd Round (Team Tech Titans)
