@@ -1,22 +1,49 @@
 # Profile
 
 👋 Hi, I'm KUNAL!
+🎓 I'm a Computer Engineering student passionate about leveraging technology to solve real-world problems. I specialize in web development and UI/UX, with strong decision-making and creative thinking skills.
 
-🎓 I'm Computer Engineering student passionate about leveraging technology to solve real-world problems. With a knack for creative thinking and excellent decision-making skills, I aim to build innovative and impactful solutions.
+💡 I'm continuously learning and experimenting to build innovative solutions. While I may not have formal work experience, I'm committed to contributing fresh perspectives and technical dedication to the teams I join.
 
-💡 I'm constantly learning and experimenting with new ideas to expand my skills. While I currently have no formal work experience, I'm eager to contribute my dedication and fresh perspective to the success of the team I join.
+🧠 Skills & Technologies
+Languages & Frameworks:
+JavaScript, Node.js, Express.js, jQuery, HTML5, CSS3, Bootstrap, SQL, PostgreSQL
 
-📌 Skills I'm Building:
+Tools & Platforms:
+VS Code, Git, GitHub, Postman, MySQL Workbench, Figma, Illustrator, Blender
 
-JavaScript, Node.js, Express.js, jQuery, HTML5, CSS3, SQL, PostgreSQL, Bootstrap, Figma, Git, UI/UX Design, Responsive Design, Database,AI prompting
+Other Skills:
+UI/UX Design, Responsive Design, Database Design, AI Prompting
 
-VS Code, Git, GitHub, Postman, Figma, MySQL Workbench, PostgreSQL
+📚 Currently Learning
+Data Science fundamentals
 
-SQL,MySQL ,Blender, Photoshop, Illustrator, video editing, and photo editing
+Advanced backend architecture
 
-Planning to learn Data Science within the next few months.
-🌱 Currently working on personal and college projects to sharpen my problem-solving and coding expertise.
+Real-world AI integrations
 
-🚀 Ready to bring my enthusiasm and determination to a professional environment where I can grow and make meaningful contributions.
+🧩 Projects
+Working on personal and college projects to sharpen problem-solving and development skills.
 
-💼 Let's connect and create something amazing together!
+🏆 Certifications
+🧑‍💻 Job Simulations (Forage)
+Goldman Sachs: Operations Job Simulation (Jul 2025)
+
+Deloitte: Technology Job Simulation (Jul 2025)
+
+📊 Technical & Programming
+SQL Intermediate – SoloLearn (Sep 2024)
+
+🏁 Competitions & Events
+IIT Madras Global Hyperloop Challenge – Qualified for 2nd Round (Team Tech Titans)
+
+Naukri Campus AINCAT Participation – May 2025
+
+📄 Resume
+📌 View My Resume
+
+📬 Let's Connect
+📍 Pune, Maharashtra
+📧 nale.kunal343@gmail.com
+🔗 LinkedIn
+💻 GitHub
