@@ -2,7 +2,7 @@
 
 👋 Hi, I'm KUNAL!
 
-🎓 I'm a final-year Computer Engineering student passionate about leveraging technology to solve real-world problems. With a knack for creative thinking and excellent decision-making skills, I aim to build innovative and impactful solutions.
+🎓 I'm Computer Engineering student passionate about leveraging technology to solve real-world problems. With a knack for creative thinking and excellent decision-making skills, I aim to build innovative and impactful solutions.
 
 💡 I'm constantly learning and experimenting with new ideas to expand my skills. While I currently have no formal work experience, I'm eager to contribute my dedication and fresh perspective to the success of the team I join.
 
