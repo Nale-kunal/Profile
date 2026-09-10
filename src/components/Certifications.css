@@ -85,3 +85,36 @@
   color: white;
   transform: scale(1.05);
 }
+
+@media (max-width: 768px) {
+  .cert-categories {
+    margin-top: 28px;
+    gap: 28px;
+  }
+
+  .cert-grid {
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+
+  .cert-card {
+    padding: 14px 16px;
+    gap: 12px;
+  }
+
+  .cert-title {
+    font-size: 0.88rem;
+    line-height: 1.35;
+    word-break: break-word;
+  }
+}
+
+@media (max-width: 360px) {
+  .cert-card {
+    padding: 12px 12px;
+  }
+
+  .cert-title {
+    font-size: 0.84rem;
+  }
+}

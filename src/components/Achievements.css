@@ -102,5 +102,52 @@
 @media (max-width: 768px) {
   .achievements-grid {
     grid-template-columns: 1fr;
+    gap: 16px;
+    margin-top: 28px;
+  }
+
+  .achievement-card {
+    padding: 16px 14px;
+    gap: 14px;
+  }
+
+  .ach-icon {
+    width: 40px;
+    height: 40px;
+  }
+
+  .ach-title {
+    font-size: 0.95rem;
+    line-height: 1.35;
+    word-break: break-word;
+  }
+
+  .ach-org {
+    font-size: 0.78rem;
+    margin-bottom: 8px;
+  }
+
+  .ach-detail {
+    font-size: 0.84rem;
+    line-height: 1.55;
+    margin-bottom: 10px;
+  }
+
+  .ach-link {
+    min-height: 36px;
+    display: inline-flex;
+    align-items: center;
+  }
+}
+
+@media (max-width: 480px) {
+  .achievement-card {
+    padding: 14px 12px;
+    gap: 12px;
+  }
+
+  .ach-icon {
+    width: 36px;
+    height: 36px;
   }
 }

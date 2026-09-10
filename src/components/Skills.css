@@ -78,8 +78,38 @@
   }
 }
 
-@media (max-width: 640px) {
+@media (max-width: 768px) {
   .skills-grid {
     grid-template-columns: 1fr;
+    gap: 16px;
+    margin-top: 28px;
+  }
+
+  .skill-category {
+    padding: 18px 16px;
+  }
+
+  .skill-cat-header {
+    margin-bottom: 14px;
+  }
+
+  .skill-chips {
+    gap: 6px;
+  }
+
+  .skill-chip {
+    font-size: 0.78rem;
+    padding: 5px 10px;
+  }
+}
+
+@media (max-width: 360px) {
+  .skill-category {
+    padding: 16px 12px;
+  }
+
+  .skill-chip {
+    font-size: 0.74rem;
+    padding: 4px 8px;
   }
 }
