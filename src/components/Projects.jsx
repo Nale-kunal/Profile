@@ -19,6 +19,9 @@ const PROJECTS = [
     ],
     accent: '#4f8ef7',
     featured: true,
+    link: 'https://juriq.in',
+    linkLabel: 'Visit Juriq.in',
+    linkType: 'live',
   },
   {
     name: 'BizzAI',
@@ -34,6 +37,9 @@ const PROJECTS = [
     ],
     accent: '#a78bfa',
     featured: false,
+    link: 'https://github.com/Nale-kunal/BizzAI',
+    linkLabel: 'View on GitHub',
+    linkType: 'github',
   },
 ]
 
@@ -55,20 +61,41 @@ function ProjectCard({ project, index }) {
       )}
 
       {/* Visual header */}
-      <div className="project-visual" aria-hidden="true">
+      <a
+        href={project.link}
+        target="_blank"
+        rel="noopener noreferrer"
+        className="project-visual"
+        aria-label={`Open ${project.name}`}
+      >
         <div className="project-icon-bg">
           <Layers size={32} style={{ color: project.accent }} />
         </div>
         <div className="project-glow" />
-      </div>
+      </a>
 
       <div className="project-body">
         <div className="project-header">
           <div>
             <span className="project-category">{project.category}</span>
-            <h3 className="project-name">{project.name}</h3>
+            <a
+              href={project.link}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="project-title-link"
+            >
+              <h3 className="project-name">{project.name}</h3>
+            </a>
           </div>
-          <ArrowUpRight className="project-arrow" size={20} />
+          <a
+            href={project.link}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="project-arrow-link"
+            aria-label={`Open ${project.name} link`}
+          >
+            <ArrowUpRight className="project-arrow" size={20} />
+          </a>
         </div>
 
         <p className="project-description">{project.description}</p>
@@ -86,6 +113,23 @@ function ProjectCard({ project, index }) {
           {project.stack.map(tech => (
             <span key={tech} className="tech-badge">{tech}</span>
           ))}
+        </div>
+
+        <div className="project-actions">
+          <a
+            href={project.link}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="project-btn"
+          >
+            {project.linkType === 'live' ? (
+              <ExternalLink size={15} />
+            ) : (
+              <GitFork size={15} />
+            )}
+            <span>{project.linkLabel}</span>
+            <ArrowUpRight size={14} className="arrow" />
+          </a>
         </div>
       </div>
     </motion.div>

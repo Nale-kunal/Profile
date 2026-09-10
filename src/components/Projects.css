@@ -110,12 +110,28 @@
   margin-bottom: 6px;
 }
 
+.project-title-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.project-title-link:hover .project-name {
+  color: var(--project-accent, var(--accent));
+}
+
 .project-name {
   font-family: var(--font-display);
   font-size: 1.35rem;
   font-weight: 700;
   color: var(--text-primary);
   letter-spacing: -0.02em;
+  transition: color var(--transition);
+}
+
+.project-arrow-link {
+  text-decoration: none;
+  display: flex;
+  align-items: center;
 }
 
 .project-arrow {
@@ -125,7 +141,8 @@
   margin-top: 4px;
 }
 
-.project-card:hover .project-arrow {
+.project-card:hover .project-arrow,
+.project-arrow-link:hover .project-arrow {
   color: var(--project-accent, var(--accent));
   transform: translate(3px, -3px);
 }
@@ -168,6 +185,43 @@
   margin-top: auto;
   padding-top: 8px;
   border-top: 1px solid var(--border);
+}
+
+.project-actions {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-top: 4px;
+}
+
+.project-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 16px;
+  border-radius: var(--radius-md);
+  font-size: 0.84rem;
+  font-weight: 600;
+  color: var(--project-accent, var(--accent));
+  background: color-mix(in srgb, var(--project-accent, var(--accent)) 10%, transparent);
+  border: 1px solid color-mix(in srgb, var(--project-accent, var(--accent)) 25%, transparent);
+  text-decoration: none;
+  transition: all var(--transition);
+}
+
+.project-btn:hover {
+  background: color-mix(in srgb, var(--project-accent, var(--accent)) 20%, transparent);
+  border-color: var(--project-accent, var(--accent));
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px color-mix(in srgb, var(--project-accent, var(--accent)) 20%, transparent);
+}
+
+.project-btn .arrow {
+  transition: transform var(--transition);
+}
+
+.project-btn:hover .arrow {
+  transform: translate(2px, -2px);
 }
 
 .projects-cta {
